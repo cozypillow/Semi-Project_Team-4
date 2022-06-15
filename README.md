@@ -8,5 +8,5 @@
 
 >**작심이주 (작고 심플하지만 이색적인 주제)**
 >
->김유신 [cozypillow](https://github.com/cozypillow) / [박준솔](https://github.com/parkjunsol) / [박해진](https://github.com/ship26) / [윤형섭](https://github.com/ch11t) / [전혜지](https://github.com/hj1717)
+>[김유신](https://github.com/cozypillow) / [박준솔](https://github.com/parkjunsol) / [박해진](https://github.com/ship26) / [윤형섭](https://github.com/ch11t) / [전혜지](https://github.com/hj1717)
 
